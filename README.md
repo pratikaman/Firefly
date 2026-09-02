@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="140" alt="Firefly logo — a glowing firefly between a sun and a moon, above a keyboard">
+</p>
+
 <h1 align="center">Firefly</h1>
 <p align="center"><b>Your keyboard backlight, on autopilot.</b></p>
 
